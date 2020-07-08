@@ -1,14 +1,6 @@
-
-<script type = "text/javascript">
-	//TP1 exercice
-	
-//String – chaines de caractères
-var debut =" bonjour";
-//typeof(debut)
-//"string"
-var nomPrenom = " lapin "+" "+"agile";
-typeof(nomPrenom)
-"string"
-	Var materiel =" casque micro wireless ";
-	Var reglage =" Nvidia X server setting ";
-	Var medoc =" Hydroxychloroquine ";
+for ( var t=1 ; t<10 ; t++ ) {
+if (t%2===0){
+	console.log(t);
+    }
+    else console.log(rien)
+    };
